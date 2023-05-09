@@ -16,9 +16,62 @@ cartoon wizard, like Merlin or something, with their long, gray beard
 that reaches their knees and a purple gown and pointy hat covered in
 golden stars.&
 
+&WIZARD: Howdy-ho! I see you’ve ventured into my very cool cave.&
+
+&YOU: Um… yeah, I was just looking for a place to stay. I woke up in the woods.&
+
+&WIZARD: How crazy! Welp. Since you’re in my cave, which is very cool, I have a
+little adventure for you to go on. IF you would like to. Except you sorta have 
+to, there’s no way around it. Sorry about that.&
+
+&You look at him, confused.&
+
+&YOU: What do you mean there’s no way around it? I’ll just walk back out and find somewhere else to stay!&
+&WIZARD: Mmmm, except you can’t really leave. In order to go back out you have to make a BUNCH of decisions! 
+I can’t tell you what those decisions are, since the scenarios you’re given are randomized. And I didn’t choose 
+them! I just live here.&
+
+	&You blink. You feel confused. And pissed off.&
+
+&YOU: But what if I don’t want to go through with it? I think making decisions is stupid.&
+&WIZARD: Then we’ll just become roommates! :D&
+&YOU: Oh…&
+
+	
+#	> Option A: No thanks, I’ll do your stupid scenarios
+	> Option B: Sure, lets be roommates!#%
+        
+^WIZARD: Well, that was easy-peasy! Alrighty then. In each room, you will be faced with a scenario, and your 
+choices impact the outcomes. They’re all some sorts of dilemmas, blah blah, I don’t know too much about ‘em, 
+I just tell people what’s supposed to happen!^
+
+@WIZARD: Oh.. You don't want to be roommates? Well, now I'm sad, But ok. Alrighty then. In each room, you will 
+be faced with a scenario, and your choices impact the outcomes. They’re all some sorts of dilemmas, blah blah, 
+I don’t know too much about ‘em, I just tell people what’s supposed to happen!@
+
+&YOU: Then why are you even here if you don’t know anything about what’s happening?&
+&WIZARD: Don’t worry about it! Anyway, there’s a pedestal over there that’s gonna give you your first scenario!&
+
+&The Wizard points to the other side of the room where a grey, stone pedestal stands between two doors that don’t belong in a cave. They’re like normal house doors, which is really weird. On the pedestal is a thick book, flipped open to the middle. There isn’t much written on it except for...&
+
+#"...You are babysitting a pair of twins, who are interested in your stock of candy. You always give them your sweets, except today you only have 1 piece of
+candy. It's hard candy! so... You cannot exactly split it. Both twins want this piece of candy, and they are asking you to pick between them for who 
+receives the only candy you have. This candy also happens to expire tomorrow. You cannot eat this candy yourself. 
+
+	> Option A: Give the candy to one of the twins. Maybe your favorite? You cannot let the candy go to waste. 
+	> Option B: Do not give either twin candy. It is not fair to either of them. #% 
+
+^You've chosen option A.^
+@You've chosen option B.@
+
+
+
+
+
+
 #you're faced with a choice.#%
 
-!You've chosen option A.!
+^You've chosen option A.^
 
 @You've chosen option B.@
 
