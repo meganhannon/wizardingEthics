@@ -11,6 +11,7 @@ FILE *script;
 int util;
 int deon;
 
+/* same as grader.c lol */
 void readString(void)
 {
    char buf[BUFSIZE];
