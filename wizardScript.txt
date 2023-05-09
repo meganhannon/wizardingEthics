@@ -72,18 +72,161 @@ candy also happens to expire tomorrow. You cannot eat this candy yourself.
 	
 	#% 
 
-^You've chosen option A.^*
-@You've chosen option B.@$
+^You've chosen option A. You go through the door labelled 'A.'^*
+@You've chosen option B. You go through the door labelled 'B.'@$
+
+&You walk into the next room, which did not have a fire in it. Or a weird Wizard. It did, however, have your BFF in it! And 
+also some little trinkets that decorated the room. You approach BFF, and as you think about it more, you’re confused by their 
+existence. Why are they here? How are they here?&
+
+
+	&YOU: BFF? What are you doing here?&
+	&BFF: Idk. Just hanging out.&
+	
+&You see another pedestal. With the same book as before. But instead of approaching it, your BFF speaks up...&
+&BFF: Hey, I know the next problem you have to do. It's really easy.&
+&YOU: Oh, okay! Lay it on me.&
+
+&BFF takes a long breath.&
+&BFF: You're conducting a really really cool choo choo train. It even has a whistle! You look out the front window
+things of the train and there's like, a fork in the tracks. You can either go left or right, because it's a train,
+you know?&
+&YOU: Yep. That's how trains work.&
+&BFF: Okay, so. You see there's some people tied to the tracks. On the left side, there's a small child tied there. On
+the other side, the right side? 5 smelly old people.&
+&YOU: That doesn't sound biased at all.&
+&BFF: Of course not. Would you steer the train left or right?&
+#YOU: ...Well...
+
+	> Option A: Left. Saving 5 people is better than one. 
+	> Option B: Right. A child's life is worth more than people who have already lived full lives. 
+	
+	#% 
+	
+^You've chosen option A. 
+YOU: You save more people that way...
+
+You go through the door labelled 'A.'^$
+
+@You've chosen option B. 
+YOU: I can't just watch a kid die.
+
+You go through the door labelled 'B.'@*
+
+&You slip through to the next room. Oddly... It looks just the same. The ceiling is just as high, it feels just as musty, and 
+sort of cold. But the most interesting thing is that your BFF was... Right there, in the same place as the last room. 
+You tried to turn back to see how they got here so quickly, but... The door was shut up tight.&
+
+&YOU: What the hell... That damn wizard.&
+&BFF: Hey. Ready for your next problem?&
+&YOU: ... Yeah, I guess.&
+
+&BFF looks excited.&
+&BFF: OKAY, so. You have a really sick wife. And I don't mean like, siiiick hot sort of way. I mean like,
+soap drama hospital sick.&
+&YOU: Uh huh.&
+&BFF: She's really sick, right. So you need to get her medicine. Except you live in the United States,
+and you know. Big Pharma has the prices upppp. You can't afford it, even when you go see some 
+greedy doctor and kiss his boots.&
+&YOU: Ew.&
+&BFF: Yeah. SO. You have 2 options. Either steal the drugs, which is bad because, y'know. Stealing. 
+Or you don't steal and your wife might die. Might. Just might.&
+&YOU: How is this fun again?&
+&BFF: I was told it's like a BuzzFeed quiz. They don't sponsor this btw!!!&
+&YOU: Hate the humor of this already.&
+#BFF: So just make a decision. lol
+
+	> Option A: Steal from the greedy doctor. You love your bleeping wife. Maybe doc will learn his lesson.
+	> Option B: Don't steal. Stealing is bad, you can get arrested for that. 
+	
+	#% 
+
+^You've chosen option A. You go through the door labelled 'A.'^$
+@You've chosen option B. You go through the door labelled 'B.'@*
+
+&You go through your door, and to your amazement, it's like you walked in a circle. You're like, in the same room. Best friend? Right there.&
+&BFF: OKAY SO.&
+&They get into it before you can even say anything.&
+&BFF: There's this drowning kid, right-&
+&YOU: Areyou kidding me right now?&
+&BFF: And you save the kid, right? You save the kid, and you get all your nice 9-5 clothes wet. But like, the next day,
+you see another kid drowning in this same 2-inch pond. But this time you're wearing fuzzy socks and if you get them wet 
+it will ruin your day.&
+&YOU: are you actually joking right now. I choose between socks or a kid?&
+&BFF: Yes. but the next day, It will cost you like 5 grand.&
+&YOU: ...Is that what the pedestal even says?&
+&BFF: Then the next day, it costs you ten grand. That's like, a down payment on a car!
+Is a kid worth that much? Maybe. I mean, yeah. But then the next kid costs you STUDENT LOANS.&
+&YOU: oh f&
+#BFF: do you want to save a child but have student loans?
+
+	> Option A: yeah if it means saving a kid
+	> Option B: oh yeah to the MOUNTAINS with that lol i hate sallie mae
+	
+	#% 
+
+^You've chosen option A. You go through the door labelled 'A.'^$
+@You've chosen option B. You go through the door labelled 'B.' wow.@*
+
+&You go through that next door. That decision seemed too easy to make. You also start wondering 
+about this wizard guy, some more. How many rooms does he have in here? And how many carbon copies
+of your BFF can he make?&
+
+&BFF: Hey besfren.&
+&YOU: Besfrennnn. What's the scenario?&
+&BFF: This is a really good one. SO. A serial killer comes to your door.&
+&YOU:&
+&YOU: really?&
+&BFF: yea. He comes up to your door and he knocks. He knocks really politely.&
+&YOU: Now why would I open the door?&
+&BFF: You open the door. He is not selling you anything. In fact, he just wants to know 
+if your best friend is in the house.&
+&YOU: ...oh?&
+&BFF: Yes. You can either liiiiie to him, and say your BFF isn't home, or, you choose to not lie.
+Because lying is bad, remember?&
+&YOU: Is this a serious decision? I think it's pretty obvious...&
+#BFF: I hope so!
+
+	> Option A: lie and save your besfren, what do you mean??
+	> Option B: Lying Is Bad.
+	
+	#% 
+
+^You've chosen option A. You go through the door labelled 'A.'^$
+
+&You go through that door. Whew. These questions are so easy. 
+The room...Is pretty much the same. But the wizard is there!&
+&There's also some streamers, and balloons. BFF is there. They're eating
+some cake.&
+&BFF: MMMM. Come see what your result is!&
+
+&YOU: Huh?&
+&The wizard is dancing with fuzzy socks on, and he's spinning around with a cake in his hand.&
+&WIZARD: YIPEEEEEE! This cake is just for you!&
+&You look at the cake. This is... so weird.&
+<
 
 
 
 
 
+@lying is bad. 
+lying is bad. 
+lying is bad.
+lying is bad. 
+Lying Is Bad.
+Lying Is Bad.
+Lying Is Bad.
+Lying Is Bad.@*
 
-#you're faced with a choice.#%
+&You step through the door, and you walk in a little further. It's sort of darker, but there's a candle
+illuminating the pedestal in front of you.&
+&YOU: BFF? You there?&
 
-^You've chosen option A.^
+&there is no answer.&
+&There is No Answer&
+&You take the candle, and you walk around the cave-ish room. There's no doors where they used to be. And there's an ugly grocery 
+store sheet cake laying where your BFF stood through all of those rooms.&
+>
 
-@You've chosen option B.@
 
-&This should follow through normally for A or B.&
