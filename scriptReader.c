@@ -1,48 +1,39 @@
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
 #include <sys/mman.h>
 
-enum {BUFSIZE = 48};
 
-char grade = 'D';
-char name[BUFSIZE];
+FILE *fp;
 
-void readString(void)
-{
-   char buf[BUFSIZE];
-   int i = 0; 
-   int c;
-
-   for (;;)
-   {
-      c = fgetc(stdin);
-      if ((c == EOF) || (c == '\n')) 
-         break;
-      buf[i] = c;
-      i++;
-   }
-   buf[i] = '\0';
-
-   for (i = 0; i < BUFSIZE; i++) 
-      name[i] = buf[i];
-}
 
 void printDialogue(void)
 {
-   printf("What is your name?\n");
-   readString();
+   char c;
+   while ((c = fgetc(fp)) != '\0') 
+      putc(c);
+
+   putc('\n');
+   
 }
-void getName(void)
+
+void choice(void)
 {
-   printf("What is your name?\n");
+    char c;
+   while ((c = fgetc(fp)) != '\0') 
+      putc(c);
+
+   putc('\n');
+   
+   printf("Please select your choice: A or B?\n");
    readString();
 }
 
 int main(void)
 {
     char *filename = "wizardingScript.txt";
-    FILE *fp = fopen(filename, "r");
+    *fp = fopen(filename, "r");
 
     if (fp == NULL)
     {
@@ -55,14 +46,11 @@ int main(void)
         if (ch = '&') {
            printDialogue();
         }
+        if (ch = '#') {
+           choice();
+        }
    }
-   getName();
-
-   if (strcmp(name, "Andrew Appel") == 0) 
-      grade = 'B';
-
-   printf("%c is your grade.\n", grade);
-   printf("Thank you, %s.\n", name);
-
+   
+   fclose(fp);
    return 0;
 }
