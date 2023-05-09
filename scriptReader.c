@@ -59,9 +59,9 @@ void choiceMarker(void)
       if @, (choice b) skip until next @, then
       print as normal. */
    if (dec == 1) {
-       while ((c = fgetc(script)) != '!')
+       while ((c = fgetc(script)) != '^')
           c = 0;/* arbitrary action */
-       while ((c = fgetc(script)) != '!') 
+       while ((c = fgetc(script)) != '^') 
       putchar(c);
    } else {
        while ((c = fgetc(script)) != '@')
@@ -69,7 +69,16 @@ void choiceMarker(void)
         while ((c = fgetc(script)) != '@') 
       putchar(c);
    }
+   c = fgetc(script);
+ /* increments utilitarian score */
+         if (c == '$') {
+            util++;
+         }
 
+         /* increments deontology score */
+         if (c == '*') {
+            deon++;
+         }
    putchar('\n');
    putchar('\n');
    readString();
@@ -154,16 +163,6 @@ void choice(void)
          /* choice */
          if (ch == '#') {
             choice();
-         }
-
-         /* increments utilitarian score */
-         if (ch == '$') {
-            util++;
-         }
-
-         /* increments deontology score */
-         if (ch == '*') {
-            deon++;
          }
 
          /* true fork in path (cannot have choice ) */
