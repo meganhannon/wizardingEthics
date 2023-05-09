@@ -41,7 +41,9 @@ stupid.&
 
 	
 #	> Option A: No thanks, I’ll do your stupid scenarios
-	> Option B: Sure, lets be roommates!#%
+	> Option B: Sure, lets be roommates!
+	
+	#%
         
 ^WIZARD: Well, that was easy-peasy! Alrighty then. In each room, you will be faced with 
 a scenario, and your choices impact the outcomes. They’re all some sorts of dilemmas, 
@@ -60,12 +62,15 @@ you your first scenario!&
 two doors that don’t belong in a cave. They’re like normal house doors, which is really weird. 
 On the pedestal is a thick book, flipped open to the middle. There isn’t much written on it except for...&
 
-#"...You are babysitting a pair of twins, who are interested in your stock of candy. You always give them your sweets, except today you only have 1 piece of
-candy. It's hard candy! so... You cannot exactly split it. Both twins want this piece of candy, and they are asking you to pick between them for who 
-receives the only candy you have. This candy also happens to expire tomorrow. You cannot eat this candy yourself. 
+#"...You are babysitting a pair of twins, who are interested in your stock of candy. You always give them your sweets, 
+except today you only have 1 piece of candy. It's hard candy! so... You cannot exactly split it. Both twins want 
+this piece of candy, and they are asking you to pick between them for who receives the only candy you have. This 
+candy also happens to expire tomorrow. You cannot eat this candy yourself. 
 
 	> Option A: Give the candy to one of the twins. Maybe your favorite? You cannot let the candy go to waste. 
-	> Option B: Do not give either twin candy. It is not fair to either of them. #% 
+	> Option B: Do not give either twin candy. It is not fair to either of them. 
+	
+	#% 
 
 ^You've chosen option A.^*
 @You've chosen option B.@$
